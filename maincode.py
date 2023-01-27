@@ -1,4 +1,4 @@
-# 주제 : 평화로운 어항 속 풍경 _ 2171262 박소희
+# Title : Fish_Bowl for Python Turtle Grapic
 
 import turtle                # 터틀 모듈 불러오기
 import random                # 랜덤 모듈 불러오기
