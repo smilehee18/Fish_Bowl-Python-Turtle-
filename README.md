@@ -1,4 +1,4 @@
-## Fish_Bowl-PythonGrapic 🐟
+## Fish_Bowl-PythonGraphic 🐟
 + #### Title : A Fish Bowl 
 + #### Language : Python 
 + #### Module : 
